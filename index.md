@@ -3,6 +3,8 @@ layout: cv
 title: Emma Marshall's CV
 ---
 # Emma Marshall
+
+
 PhD student studying remote sensing and mountain glaciers
 University of Utah, Department of Geography, Snow & Ice Research Lab
 
@@ -67,11 +69,11 @@ This is a competitive fellowship awarded to graduate students at U.S. institutio
 
 **<u>2022</u>**  
 **American Geophysical Union Fall Meeting**, Chicago, IL, U.S.A.  
-[title] (poster)  
-[title] (poster)  
+[poster] [title]    
+[poster] [title]    
 
 **NISAR Community Science Meeting**, Pasadena, CA, U.S.A.  
-[title] (poster)  
+[poster] [title]    
 
 **Scipy Conference**, Austin, TX, U.S.A.  
 Co-instructed a tutorial on the python package Xarray  
@@ -79,7 +81,7 @@ Co-instructed a tutorial on the python package Xarray
 **<u>2021</u>**
 
 **American Geophysical Union Fall Meeting**, New Orleans, LA, U.S.A.
-[title] (oral presentation)
+[oral presentation] [title]  
 
 
 
