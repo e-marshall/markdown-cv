@@ -1,87 +1,57 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Emma Marshall's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Emma Marshall
+PhD student studying remote sensing and mountain glaciers
+University of Utah, Department of Geography, Snow & Ice Research Lab
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="emma.marshall@utah.edu">emma.marshall@utah.edu</a>
+| <a href="https://e-marshall.github.io/">My personal website</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Ph.D. student and graduate research assistant at the University of Utah, using remote sensing data to study mountain glaciers in the Himalaya. I am interested in better understanding variability of physical systems in the cryosphere in order to contribute to the development of adaptation and mitigation strategies for downstream communities, to whom mountain glaciers are important water resources as well as potential hazards. 
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Python, gdal command line tools, git / github, R
 
 ### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2011-2015`
+__Colorado College, Colorado Springs, CO, U.S.A.__
+Bachelor of Arts, Environmental Science
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`Fall 2019 - Summer 2021`
+__University of Utah, Salt Lake City, UT, U.S.A.__
+Master of Science, Geography
 
-- Sizar
+Graduate research assistant
 
-`1667 - death`
-__Trinity College, Cambridge__
+`Fall 2021 - present`
+__University of Utah, Salt Lake City, UT, U.S.A.__
 
-- Fellow
-
+Ph.D. Student
+Graduate research assistant
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
+`2022`
+Future Invesigator in Earth and Space Science and Technology Fellowship, National Aeronautics and Space Administration (NASA)
 
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
 
 
 <!-- ### Footer
