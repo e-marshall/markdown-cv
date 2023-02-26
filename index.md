@@ -61,11 +61,11 @@ This is a competitive fellowship awarded to graduate students at U.S. institutio
 
 ## Conferences & Meetings
 
-**<u>2023</u>/**  </br>
+**<u>2023</u>**  
 
-**HiMAT research dialogue meeting**, Kathmandu, Nepal  </br>
+**HiMAT research dialogue meeting**, Kathmandu, Nepal  
 
-**<u>2022</u>**  </br>
+**<u>2022</u>**  
 **American Geophysical Union Fall Meeting**, Chicago, IL, U.S.A. </br>
 [title] (poster)  </br>
 [title] (poster)  </br>
