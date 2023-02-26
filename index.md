@@ -40,6 +40,7 @@ __University of Utah, Salt Lake City, UT, U.S.A.__
 Doctor of Philosophy (*in progress*)  
 Supervisors: Dr. Summer Rupper & Dr. Rick Forster
 GPA: 4.0
+` `  
 
 `Fall 2019 - Summer 2021`
 __University of Utah, Salt Lake City, UT, U.S.A.__  
@@ -48,6 +49,7 @@ Thesis title: "Distinct seasonal surface velocities of lake-terminating and land
 High Mountain Asia"
 Advisor: Dr. Summer Rupper  
 GPA: 4.0  
+` `  
 
 `2011-2015`
 __Colorado College, Colorado Springs, CO, U.S.A.__  
@@ -56,6 +58,7 @@ Thesis title: "Microclimatology and tree growth patterns of the alpine treeline 
 Pike’s Peak, Colorado"  
 Advisor: Dr. Miroslav Kummel  
 GPA: 3.56  
+` `  
 
 ## Awards
 
@@ -80,9 +83,12 @@ This was a meeting organized by the Nepal Research & Development Institute (NDRI
 **American Geophysical Union Fall Meeting**, Chicago, IL, U.S.A.  
 [poster] "Preliminary examination of ITS_LIVE glacier velocity data for analysis of alpine glaciers in High Mountain Asia"  
 [poster] "Accelerating cryospheric research with cloud-based, open source tutorials: Using Xarray to analyze ITS_LIVE ice velocity data and Sentinel-1 Radiometric Terrain Corrected (RTC) backscatter imagery"     
+` `  
 
 **NISAR Community Science Meeting**, Pasadena, CA, U.S.A.  
 [poster] "Educational resources for SAR in the Cloud: Monitoring backscatter variability of Himalayan proglacial lakes with publicly-accessible Sentinel-1 RTC data"  
+` `  
+
 
 **SciPy Conference**, Austin, TX, U.S.A.  
 Co-instructed a tutorial on the python package Xarray  
@@ -112,6 +118,7 @@ interferometric products.
 I attended monthly geography department faculty meetings as the representative of the graduate
 student body. I was responsible for relaying questions and concerns from graduate students to
 faculty and communicating relevant information to my graduate student colleagues.
+` `  
 
 `Fall 2021 - Summer 2022`
 **Geography club co-president**  
