@@ -30,30 +30,47 @@ Processing and analysis of geospatial data, experience working with optical sate
 `2011-2015`
 __Colorado College, Colorado Springs, CO, U.S.A.__
 Bachelor of Arts, Environmental Science
+Thesis title:
+Advisor: Dr. Miroslav Kummel
 
 `Fall 2019 - Summer 2021`
 __University of Utah, Salt Lake City, UT, U.S.A.__
-Master of Science, Geography
-
-Graduate research assistant
+Master of Science, Geography <br>
+Thesis title: <br>
+Advisor: Dr. Summer Rupper <br>
 
 `Fall 2021 - present`
-__University of Utah, Salt Lake City, UT, U.S.A.__
-
-Ph.D. Student
-Graduate research assistant
-
+__University of Utah, Salt Lake City, UT, U.S.A.__ <br>
+Supervisors: Dr. Summer Rupper & Dr. Rick Forster <br>
 
 ## Awards
 
-`2022`
-Future Invesigator in Earth and Space Science and Technology Fellowship, National Aeronautics and Space Administration (NASA)
+`Fall 2022 - present`
+**Future Invesigator in Earth and Space Science and Technology (FINESST) Fellowship, National Aeronautics and Space Administration (NASA)**
+This is a competitive fellowship awarded to graduate students at U.S. institutions whose research makes use of NASA assets and contributes to the science goals outlines in the NASA Science Mission Directorate. The fellowship grant supports tuition, academic expenses and living expenses for three years. 
+
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+[title] (*in revision*) **Scientific Reports**
 
-### Journals
+## Conferences & Meetings
+
+**<u>2023</u>/**
+
+**HiMAT research dialogue meeting**, Kathmandu, Nepal
+
+**<u>2022</u>**
+**American Geophysical Union Fall Meeting**, Chicago, IL, U.S.A.
+[title] (poster)
+[title] (poster)
+
+**NISAR Community Science Meeting**, Pasadena, CA, U.S.A.
+[title] (poster)
+
+**Scipy Conference**, Austin, TX, U.S.A.
+Co-instructed a tutorial on the python package Xarray
+
 
 
 <!-- ### Footer
