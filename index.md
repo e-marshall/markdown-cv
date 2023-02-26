@@ -17,7 +17,7 @@ University of Utah, Department of Geography, Snow & Ice Research Lab
 
 I am a Ph.D. student and graduate research assistant at the University of Utah. My research uses remote sensing data to study mountain glaciers in the Himalaya. I am interested in better understanding the variability of physical systems in the cryosphere with the goal of contributing to the development of adaptation and mitigation strategies for downstream communities, to whom mountain glaciers are important water resources as well as potential hazards. 
 
-## Skills & Experience
+### Skills & Experience
 
 Processing and analysis of geospatial data, experience working with optical satellite imagery, synthetic aperture radar data and hyperspectral imagery. Experience working in python using modules including xarray, rioxarray, rasterio, geopandas, pandas, numpy, dask, pystac, stackstac & others. Processing geospatial data using gdal command line tools. Statistical modeling and data visualization in R. Version control wtih git and collaboration via github. 
 
