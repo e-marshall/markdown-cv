@@ -64,13 +64,14 @@ This is a competitive fellowship awarded to graduate students at U.S. institutio
 
 ## Publications
 
-[title] (*in revision*) **Scientific Reports**  
+Seasonal velocity differences between lake-terminating and land-terminating glaciers in the Langtang region of Nepal, E. Marshall, S. Rupper, R. Forster, S. Brewer & L. Stearns. (*in revision*) **Scientific Reports**  
 
 ## Conferences & Meetings
 
 **<u>2023</u>**  
 
-**HiMAT research dialogue meeting**, Kathmandu, Nepal  
+**High Mountain Asia Team Research & Practice Dialogue meeting**, Kathmandu, Nepal  
+This was a meeting organized by the Nepal Research & Development Institute (NDRI) and was attended by students at faculty at a handful of U.S. institutions as well as researchers at univerisites in Nepal, Nepal government agencies, and non-government organizations such as NDRI and the International Center for Integrated Mountain Development (ICIMOD). The purpose of the meeting was to foster connections and identify areas for future collaboration. 
 
 **<u>2022</u>**  
 **American Geophysical Union Fall Meeting**, Chicago, IL, U.S.A.  
