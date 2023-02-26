@@ -25,7 +25,7 @@ Processing and analysis of geospatial data, experience working with optical sate
 
 ### Other experience
 
-`Summer 2022`
+`Summer 2022`  
 **National Center for Atmospheric Research (NCAR) Summer Internship in Parallel Computational Sciences (SIParCS)**, Boulder, CO, U.S.A.
 During the summer of 2022 I had the opportunity to complete an internship at the National Center for Atmospheric Research through the SIParCS internship program. This is a competitive internship program open to students at universities in the United States. The project that I worked on focused on the python package xarray, and supporting the goals of open, reproducible and accessible science. I developed tutorials and other educational resources that demonstrate using Xarray to work with remote sensing datasets, with a focus on cloud-hosted datasets, cloud-optimized data types and cloud-computing resources.
 
@@ -53,7 +53,7 @@ Supervisors: Dr. Summer Rupper & Dr. Rick Forster
 ## Awards
 
 `Fall 2022 - present`
-**Future Invesigator in Earth and Space Science and Technology (FINESST) Fellowship, National Aeronautics and Space Administration (NASA)**  </br>
+**Future Invesigator in Earth and Space Science and Technology (FINESST) Fellowship, National Aeronautics and Space Administration (NASA)**  
 This is a competitive fellowship awarded to graduate students at U.S. institutions whose research makes use of NASA assets and contributes to the science goals outlines in the NASA Science Mission Directorate. The fellowship grant supports tuition, academic expenses and living expenses for three years. 
 
 
