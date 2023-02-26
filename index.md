@@ -33,20 +33,20 @@ During the summer of 2022 I had the opportunity to complete an internship at the
 ## Education
 
 `2011-2015`
-__Colorado College, Colorado Springs, CO, U.S.A.__ </br>
-Bachelor of Arts, Environmental Science </br>
-Thesis title: </br>
-Advisor: Dr. Miroslav Kummel </br>
+__Colorado College, Colorado Springs, CO, U.S.A.__  
+Bachelor of Arts, Environmental Science  
+Thesis title:  
+Advisor: Dr. Miroslav Kummel  
 
 `Fall 2019 - Summer 2021`
-__University of Utah, Salt Lake City, UT, U.S.A.__  </br>
-Master of Science, Geography <br>
-Thesis title: <br>
-Advisor: Dr. Summer Rupper <br>
+__University of Utah, Salt Lake City, UT, U.S.A.__  
+Master of Science, Geography   
+Thesis title:   
+Advisor: Dr. Summer Rupper  
 
 `Fall 2021 - present`
-__University of Utah, Salt Lake City, UT, U.S.A.__ <br>
-Supervisors: Dr. Summer Rupper & Dr. Rick Forster <br>
+__University of Utah, Salt Lake City, UT, U.S.A.__   
+Supervisors: Dr. Summer Rupper & Dr. Rick Forster   
 
 ## Awards
 
@@ -57,7 +57,7 @@ This is a competitive fellowship awarded to graduate students at U.S. institutio
 
 ## Publications
 
-[title] (*in revision*) **Scientific Reports**  </br>
+[title] (*in revision*) **Scientific Reports**  
 
 ## Conferences & Meetings
 
@@ -66,15 +66,15 @@ This is a competitive fellowship awarded to graduate students at U.S. institutio
 **HiMAT research dialogue meeting**, Kathmandu, Nepal  
 
 **<u>2022</u>**  
-**American Geophysical Union Fall Meeting**, Chicago, IL, U.S.A. </br>
-[title] (poster)  </br>
-[title] (poster)  </br>
+**American Geophysical Union Fall Meeting**, Chicago, IL, U.S.A.  
+[title] (poster)  
+[title] (poster)  
 
-**NISAR Community Science Meeting**, Pasadena, CA, U.S.A.  </br>
-[title] (poster)  </br>
+**NISAR Community Science Meeting**, Pasadena, CA, U.S.A.  
+[title] (poster)  
 
-**Scipy Conference**, Austin, TX, U.S.A.  </br>
-Co-instructed a tutorial on the python package Xarray  </br>
+**Scipy Conference**, Austin, TX, U.S.A.  
+Co-instructed a tutorial on the python package Xarray  
 
 **<u>2021</u>**
 
