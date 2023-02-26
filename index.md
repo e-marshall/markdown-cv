@@ -60,20 +60,18 @@ Thesis title: "Microclimatology and tree growth patterns of the alpine treeline 
 Pike’s Peak, Colorado"  
 Advisor: Dr. Miroslav Kummel  
 GPA: 3.56  
-  
-    
     
 
 ## Awards
 
 `Fall 2022 - present`
-**Future Invesigator in Earth and Space Science and Technology (FINESST) Fellowship, National Aeronautics and Space Administration (NASA)**  
+**Future Investigators in NASA Earth and Space Science and Technology (FINESST) Fellowship, National Aeronautics and Space Administration (NASA)**  
 This is a competitive fellowship awarded to graduate students at U.S. institutions whose research makes use of NASA assets and contributes to the science goals outlines in the NASA Science Mission Directorate. The fellowship grant supports tuition, academic expenses and living expenses for three years. 
 
 
 ## Publications
 
-(*in revision*) Seasonal velocity differences between lake-terminating and land-terminating glaciers in the Langtang region of Nepal, E. Marshall, S. Rupper, R. Forster, S. Brewer & L. Stearns. **Scientific Reports**    
+(*in revision*) Seasonal velocity differences between lake-terminating and land-terminating glaciers in the Langtang region of Nepal, **E. Marshall**, S. Rupper, R. Forster, S. Brewer & L. Stearns. **Scientific Reports**    
 
 ## Conferences & Meetings
 
@@ -102,7 +100,7 @@ Co-instructed a tutorial on the python package Xarray
 
 `2021`
 
-**American Geophysical Union Fall Meeting**, New Orleans, LA, U.S.A.
+**American Geophysical Union Fall Meeting**, New Orleans, LA, U.S.A.  
 [oral presentation] "Distinct seasonal surface velocity patterns between lake-terminating and
 land-terminating glaciers in Langtang, Nepal"  
 
