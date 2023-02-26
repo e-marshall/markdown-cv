@@ -35,13 +35,11 @@ Glaciers, glacier-climate connections, physical processes in the cryosphere, sen
 
 ## Education
 
-`2011-2015`
-__Colorado College, Colorado Springs, CO, U.S.A.__  
-Bachelor of Arts, Environmental Science  
-Thesis title: "Microclimatology and tree growth patterns of the alpine treeline ecotone,
-Pike’s Peak, Colorado"  
-Advisor: Dr. Miroslav Kummel  
-GPA: 3.56  
+`Fall 2021 - present`
+__University of Utah, Salt Lake City, UT, U.S.A.__   
+Doctor of Philosophy (*in progress*)  
+Supervisors: Dr. Summer Rupper & Dr. Rick Forster
+GPA: 4.0
 
 `Fall 2019 - Summer 2021`
 __University of Utah, Salt Lake City, UT, U.S.A.__  
@@ -51,10 +49,13 @@ High Mountain Asia"
 Advisor: Dr. Summer Rupper  
 GPA: 4.0  
 
-`Fall 2021 - present`
-__University of Utah, Salt Lake City, UT, U.S.A.__   
-Doctor of Philosophy (*in progress*)  
-Supervisors: Dr. Summer Rupper & Dr. Rick Forster    
+`2011-2015`
+__Colorado College, Colorado Springs, CO, U.S.A.__  
+Bachelor of Arts, Environmental Science  
+Thesis title: "Microclimatology and tree growth patterns of the alpine treeline ecotone,
+Pike’s Peak, Colorado"  
+Advisor: Dr. Miroslav Kummel  
+GPA: 3.56  
 
 ## Awards
 
@@ -65,16 +66,17 @@ This is a competitive fellowship awarded to graduate students at U.S. institutio
 
 ## Publications
 
-Seasonal velocity differences between lake-terminating and land-terminating glaciers in the Langtang region of Nepal, E. Marshall, S. Rupper, R. Forster, S. Brewer & L. Stearns. (*in revision*) **Scientific Reports**    
+(*in revision*) Seasonal velocity differences between lake-terminating and land-terminating glaciers in the Langtang region of Nepal, E. Marshall, S. Rupper, R. Forster, S. Brewer & L. Stearns. **Scientific Reports**    
 
 ## Conferences & Meetings
 
-**<u>2023</u>**  
+`2023` 
 
 **High Mountain Asia Team Research & Practice Dialogue meeting**, Kathmandu, Nepal  
 This was a meeting organized by the Nepal Research & Development Institute (NDRI) and was attended by students at faculty at a handful of U.S. institutions as well as researchers at univerisites in Nepal, Nepal government agencies, and non-government organizations such as NDRI and the International Center for Integrated Mountain Development (ICIMOD). The purpose of the meeting was to foster connections and identify areas for future collaboration. 
 
-**<u>2022</u>**  
+`2022`
+
 **American Geophysical Union Fall Meeting**, Chicago, IL, U.S.A.  
 [poster] "Preliminary examination of ITS_LIVE glacier velocity data for analysis of alpine glaciers in High Mountain Asia"  
 [poster] "Accelerating cryospheric research with cloud-based, open source tutorials: Using Xarray to analyze ITS_LIVE ice velocity data and Sentinel-1 Radiometric Terrain Corrected (RTC) backscatter imagery"     
@@ -85,7 +87,7 @@ This was a meeting organized by the Nepal Research & Development Institute (NDRI
 **SciPy Conference**, Austin, TX, U.S.A.  
 Co-instructed a tutorial on the python package Xarray  
 
-**<u>2021</u>**
+`2021`
 
 **American Geophysical Union Fall Meeting**, New Orleans, LA, U.S.A.
 [oral presentation] "Distinct seasonal surface velocity patterns between lake-terminating and
