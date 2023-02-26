@@ -53,7 +53,8 @@ GPA: 4.0
 
 `Fall 2021 - present`
 __University of Utah, Salt Lake City, UT, U.S.A.__   
-Supervisors: Dr. Summer Rupper & Dr. Rick Forster   
+Doctor of Philosophy (*in progress*)  
+Supervisors: Dr. Summer Rupper & Dr. Rick Forster    
 
 ## Awards
 
@@ -64,7 +65,7 @@ This is a competitive fellowship awarded to graduate students at U.S. institutio
 
 ## Publications
 
-Seasonal velocity differences between lake-terminating and land-terminating glaciers in the Langtang region of Nepal, E. Marshall, S. Rupper, R. Forster, S. Brewer & L. Stearns. (*in revision*) **Scientific Reports**  
+Seasonal velocity differences between lake-terminating and land-terminating glaciers in the Langtang region of Nepal, E. Marshall, S. Rupper, R. Forster, S. Brewer & L. Stearns. (*in revision*) **Scientific Reports**    
 
 ## Conferences & Meetings
 
@@ -75,13 +76,13 @@ This was a meeting organized by the Nepal Research & Development Institute (NDRI
 
 **<u>2022</u>**  
 **American Geophysical Union Fall Meeting**, Chicago, IL, U.S.A.  
-[poster] [title]    
-[poster] [title]    
+[poster] "Preliminary examination of ITS_LIVE glacier velocity data for analysis of alpine glaciers in High Mountain Asia"  
+[poster] "Accelerating cryospheric research with cloud-based, open source tutorials: Using Xarray to analyze ITS_LIVE ice velocity data and Sentinel-1 Radiometric Terrain Corrected (RTC) backscatter imagery"     
 
 **NISAR Community Science Meeting**, Pasadena, CA, U.S.A.  
-[poster] [title]    
+[poster] "Educational resources for SAR in the Cloud: Monitoring backscatter variability of Himalayan proglacial lakes with publicly-accessible Sentinel-1 RTC data"  
 
-**Scipy Conference**, Austin, TX, U.S.A.  
+**SciPy Conference**, Austin, TX, U.S.A.  
 Co-instructed a tutorial on the python package Xarray  
 
 **<u>2021</u>**
@@ -105,14 +106,14 @@ interferometric products.
 
 `2021-2022`
 **Graduate student representative**  
-Geography Department, University of Utah  
+*Geography Department, University of Utah*    
 I attended monthly geography department faculty meetings as the representative of the graduate
 student body. I was responsible for relaying questions and concerns from graduate students to
 faculty and communicating relevant information to my graduate student colleagues.
 
 `Fall 2021 - Summer 2022`
 **Geography club co-president**  
-University of Utah  
+*University of Utah*    
 I organized events to promote both the geography department and geography as a field at the
 University of Utah. We hosted Geography lunch hour where students could drop in with research
 questions, as well as participatory mapping events and social events such as hikes.
