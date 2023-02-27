@@ -34,7 +34,7 @@ During the summer of 2022 I had the opportunity to complete an internship at the
 ## Education
 
 `2021 - present`
-__Ph.D. (in progress, expected 2025), Geography__  
+__Ph.D., Geography (in progress, expected 2025)__    
 University of Utah, Salt Lake City, UT, U.S.A.    
 Supervisors: Dr. Summer Rupper & Dr. Rick Forster  
 GPA: 4.0  
