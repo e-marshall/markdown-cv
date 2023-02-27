@@ -17,44 +17,43 @@ University of Utah, Department of Geography, Snow & Ice Research Lab
 
 ## About me
 
-I am a Ph.D. student and graduate research assistant at the University of Utah. My research uses remote sensing data to study mountain glaciers in the Himalaya. I am interested in better understanding the variability of physical systems in the cryosphere with the goal of contributing to the development of adaptation and mitigation strategies for downstream communities, to whom mountain glaciers are important water resources as well as potential hazards. 
+I am a Ph.D. student and graduate research assistant at the University of Utah. My research uses remote sensing data to study mountain glaciers in the Himalaya. I am interested in better understanding the variability of physical systems in the cryosphere with the goal of contributing to adaptation and mitigation strategies for downstream communities, to whom mountain glaciers are important water resources as well as potential hazards. 
 
 ### Skills & Experience
 
 Processing and analysis of geospatial data, experience working with optical satellite imagery, synthetic aperture radar data and hyperspectral imagery. Experience working in python using modules including xarray, rioxarray, rasterio, geopandas, pandas, numpy, dask, pystac, stackstac & others. Processing geospatial data using gdal command line tools. Statistical modeling and data visualization in R. Version control wtih git and collaboration via github. Experience working with cloud-optimized data types and cloud infrastructure including Amazon Web Services and Microsoft Planetary Computer. I also have experience working with data fitting the Spatio-Temoral Asset Catalog (STAC) specification, including accessing STAC data from cloud repositories and organizing large volumes of geospatial data into STAC catalogs. 
 
-### Other experience
+### Research interests
+Glaciers, glacier-climate connections, physical processes in the cryosphere, sensitivity of the climate system to warming, climate change adaptation and mitigation strategies, incorporation of traditional knowledge systems about climate, resources and hazards, open-source scientific software, open science principles, increasing accessibility and participation in scientific research, optical and synthetic aperture radar remote sensing. 
+
+### Internships, other experiences
 `Summer 2022`  
 **National Center for Atmospheric Research (NCAR) Summer Internship in Parallel Computational Sciences (SIParCS)**, Boulder, CO, U.S.A.  
 During the summer of 2022 I had the opportunity to complete an internship at the National Center for Atmospheric Research through the SIParCS internship program. This is a competitive internship program open to students at universities in the United States. The project that I worked on focused on the python package xarray, and supporting the goals of open, reproducible and accessible science. I developed tutorials and other educational resources that demonstrate using Xarray to work with remote sensing datasets, with a focus on cloud-hosted datasets, cloud-optimized data types and cloud-computing resources.
 
-### Research interests
-Glaciers, glacier-climate connections, physical processes in the cryosphere, sensitivity of the climate system to warming, climate change adaptation and mitigation strategies, incorporation of traditional knowledge systems about climate, resources and hazards, open-source scientific software, open science principles, increasing accessibility and participation in scientific research, optical and synthetic aperture radar remote sensing. 
-
-
 ## Education
 
-`Fall 2021 - present`
-__University of Utah, Salt Lake City, UT, U.S.A.__   
-Doctor of Philosophy (*in progress*)  
-Supervisors: Dr. Summer Rupper & Dr. Rick Forster
-GPA: 4.0
+`2021 - present`
+__Ph.D. (in progress, expected 2025), Geography__  
+University of Utah, Salt Lake City, UT, U.S.A.    
+Supervisors: Dr. Summer Rupper & Dr. Rick Forster  
+GPA: 4.0  
   
     
 
-`Fall 2019 - Summer 2021`
-__University of Utah, Salt Lake City, UT, U.S.A.__  
-Master of Science, Geography   
+`2019 - 2021`
+__M.S., Geography__  
+University of Utah, Salt Lake City, UT, U.S.A.    
 Thesis title: "Distinct seasonal surface velocities of lake-terminating and land-terminating glaciers in
-High Mountain Asia"
+High Mountain Asia"  
 Advisor: Dr. Summer Rupper  
 GPA: 4.0  
   
     
 
 `2011-2015`
-__Colorado College, Colorado Springs, CO, U.S.A.__  
-Bachelor of Arts, Environmental Science  
+__B.A., Environmental Science__  
+Colorado College, Colorado Springs, CO, U.S.A.  
 Thesis title: "Microclimatology and tree growth patterns of the alpine treeline ecotone,
 Pike’s Peak, Colorado"  
 Advisor: Dr. Miroslav Kummel  
