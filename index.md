@@ -21,12 +21,15 @@ I am a Ph.D. student and graduate research assistant at the University of Utah. 
 
 ### Skills & Experience
 
-Processing and analysis of geospatial data, experience working with optical satellite imagery, synthetic aperture radar data and hyperspectral imagery. Experience working in python using modules including xarray, rioxarray, rasterio, geopandas, pandas, numpy, dask, pystac, stackstac & others. Processing geospatial data using gdal command line tools. Statistical modeling and data visualization in R. Version control wtih git and collaboration via github. Experience working with cloud-optimized data types and cloud infrastructure including Amazon Web Services and Microsoft Planetary Computer. I also have experience working with data fitting the Spatio-Temoral Asset Catalog (STAC) specification, including accessing STAC data from cloud repositories and organizing large volumes of geospatial data into STAC catalogs. 
+**Python** - Processing and analysis of geospatial data, experience working with optical satellite imagery, synthetic aperture radar data and hyperspectral imagery. Experience using modules such as xarray, rioxarray, rasterio, geopandas, pandas, numpy, dask, pystac, stackstac & others. Working with cloud-optimized data types and cloud infrastructure including Amazon Web Services and Microsoft Planetary Computer. I also have experience working with Spatio-Temporal Asset Catalog (STAC)-formatted data, including accessing STAC data from cloud repositories and organizing large volumes of geospatial raster data into STAC catalogs. 
+**gdal command line tools** - Processing and manipulation of raster data 
+**R** - Statistical modeling and visualization
+**git/github** - Version control and collaborative workflows
 
 ### Research interests
 Glaciers, glacier-climate connections, physical processes in the cryosphere, sensitivity of the climate system to warming, climate change adaptation and mitigation strategies, incorporation of traditional knowledge systems about climate, resources and hazards, open-source scientific software, open science principles, increasing accessibility and participation in scientific research, optical and synthetic aperture radar remote sensing. 
 
-### Internships, other experiences
+### Internships & other experiences
 `Summer 2022`  
 **National Center for Atmospheric Research (NCAR) Summer Internship in Parallel Computational Sciences (SIParCS)**, Boulder, CO, U.S.A.  
 During the summer of 2022 I had the opportunity to complete an internship at the National Center for Atmospheric Research through the SIParCS internship program. This is a competitive internship program open to students at universities in the United States. The project that I worked on focused on the python package xarray, and supporting the goals of open, reproducible and accessible science. I developed tutorials and other educational resources that demonstrate using Xarray to work with remote sensing datasets, with a focus on cloud-hosted datasets, cloud-optimized data types and cloud-computing resources.
