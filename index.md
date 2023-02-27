@@ -21,10 +21,11 @@ I am a Ph.D. student and graduate research assistant at the University of Utah. 
 
 ### Skills & Experience
 
-**Python** - Processing and analysis of geospatial data, experience working with optical satellite imagery, synthetic aperture radar data and hyperspectral imagery. Experience using modules such as xarray, rioxarray, rasterio, geopandas, pandas, numpy, dask, pystac, stackstac & others. Working with cloud-optimized data types and cloud infrastructure including Amazon Web Services and Microsoft Planetary Computer. I also have experience working with Spatio-Temporal Asset Catalog (STAC)-formatted data, including accessing STAC data from cloud repositories and organizing large volumes of geospatial raster data into STAC catalogs. 
-**gdal command line tools** - Processing and manipulation of raster data 
-**R** - Statistical modeling and visualization
-**git/github** - Version control and collaborative workflows
+**Python** - Processing and analysis of geospatial data, experience working with optical satellite imagery, synthetic aperture radar data and hyperspectral imagery. Experience using modules such as xarray, rioxarray, rasterio, geopandas, pandas, numpy, dask, pystac, stackstac & others. Working with cloud-optimized data types and cloud infrastructure including Amazon Web Services and Microsoft Planetary Computer. I also have experience working with Spatio-Temporal Asset Catalog (STAC)-formatted data, including accessing STAC data from cloud repositories and organizing large volumes of geospatial raster data into STAC catalogs.  
+**gdal command line tools** - Processing and manipulation of raster data  
+**R** - Statistical modeling and visualization  
+**git/github** - Version control and collaborative workflows  
+**QGIS** - Exploratory analysis of raster and vector geospatial data types, visualizing geospatial data  
 
 ### Research interests
 Glaciers, glacier-climate connections, physical processes in the cryosphere, sensitivity of the climate system to warming, climate change adaptation and mitigation strategies, incorporation of traditional knowledge systems about climate, resources and hazards, open-source scientific software, open science principles, increasing accessibility and participation in scientific research, optical and synthetic aperture radar remote sensing. 
