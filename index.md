@@ -21,7 +21,7 @@ I am a Ph.D. student and graduate research assistant at the University of Utah. 
 
 ### Skills & Experience
 
-Processing and analysis of geospatial data, experience working with optical satellite imagery, synthetic aperture radar data and hyperspectral imagery. Experience working in python using modules including xarray, rioxarray, rasterio, geopandas, pandas, numpy, dask, pystac, stackstac & others. Processing geospatial data using gdal command line tools. Statistical modeling and data visualization in R. Version control wtih git and collaboration via github. 
+Processing and analysis of geospatial data, experience working with optical satellite imagery, synthetic aperture radar data and hyperspectral imagery. Experience working in python using modules including xarray, rioxarray, rasterio, geopandas, pandas, numpy, dask, pystac, stackstac & others. Processing geospatial data using gdal command line tools. Statistical modeling and data visualization in R. Version control wtih git and collaboration via github. Experience working with cloud-optimized data types and cloud infrastructure including Amazon Web Services and Microsoft Planetary Computer. I also have experience working with data fitting the Spatio-Temoral Asset Catalog (STAC) specification, including accessing STAC data from cloud repositories and organizing large volumes of geospatial data into STAC catalogs. 
 
 ### Other experience
 `Summer 2022`  
