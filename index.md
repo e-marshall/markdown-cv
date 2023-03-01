@@ -66,7 +66,7 @@ GPA: 3.56
 
 ## Awards
 
-`Fall 2022 - present`
+`2022 - present`
 **Future Investigators in NASA Earth and Space Science and Technology (FINESST) Fellowship, National Aeronautics and Space Administration (NASA)**  
 This is a competitive fellowship awarded to graduate students at U.S. institutions whose research makes use of NASA assets and contributes to the science goals outlines in the NASA Science Mission Directorate. The fellowship grant supports tuition, academic expenses and living expenses for three years. 
 
@@ -86,9 +86,11 @@ This was a meeting organized by the Nepal Research & Development Institute (NDRI
 
 **American Geophysical Union Fall Meeting**, Chicago, IL, U.S.A.  
 [poster] "Preliminary examination of ITS_LIVE glacier velocity data for analysis of alpine glaciers in High Mountain Asia"  
-[poster] "Accelerating cryospheric research with cloud-based, open source tutorials: Using Xarray to analyze ITS_LIVE ice velocity data and Sentinel-1 Radiometric Terrain Corrected (RTC) backscatter imagery"     
   
     
+[poster] "Accelerating cryospheric research with cloud-based, open source tutorials: Using Xarray to analyze ITS_LIVE ice velocity data and Sentinel-1 Radiometric Terrain Corrected (RTC) backscatter imagery"     
+  
+      
 
 **NISAR Community Science Meeting**, Pasadena, CA, U.S.A.  
 [poster] "Educational resources for SAR in the Cloud: Monitoring backscatter variability of Himalayan proglacial lakes with publicly-accessible Sentinel-1 RTC data"  
@@ -119,7 +121,7 @@ interferometric products.
 
 ## Academic activities 
 
-`2021-2022`
+`2021 - 2022`
 **Graduate student representative**  
 *Geography Department, University of Utah*    
 I attended monthly geography department faculty meetings as the representative of the graduate
@@ -129,7 +131,7 @@ faculty and communicating relevant information to my graduate student colleagues
      
      
 
-`Fall 2021 - Summer 2022`
+`2021 - 2022`
 **Geography club co-president**  
 *University of Utah*    
 I organized events to promote both the geography department and geography as a field at the
@@ -138,6 +140,6 @@ questions, as well as participatory mapping events and social events such as hik
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Feb 2023 -->
 
 
