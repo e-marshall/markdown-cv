@@ -81,7 +81,7 @@ This is a competitive fellowship awarded to graduate students at U.S. institutio
 `2023` 
 
 **High Mountain Asia Team Research & Practice Dialogue meeting**, Kathmandu, Nepal  
-This was a meeting organized by the Nepal Research & Development Institute (NDRI) and was attended by students and faculty from U.S. institutions as well as researchers at universities in Nepal, Nepal government agencies, and non-government organizations such as NDRI and the International Center for Integrated Mountain Development (ICIMOD). The purpose of the meeting was to foster connections and identify areas for collaborative work on research topics including projections of future glacier change, glacier runoff contributions to seasonal water resources, hydroelectric power generation, forecasting of extreme precipitation events and glacier hazards such as glacial lake outburst flood events and landslides.  
+This was a meeting organized by the Nepal Research & Development Institute (NDRI) and was attended by students and faculty from U.S. institutions as well as researchers at universities in Nepal, Nepal government agencies, and non-government organizations such as NDRI and the International Centre for Integrated Mountain Development (ICIMOD). The purpose of the meeting was to foster connections and identify areas for collaborative work on research topics including projections of future glacier change, glacier runoff contributions to seasonal water resources, hydroelectric power generation, forecasting of extreme precipitation events and glacier hazards such as glacial lake outburst flood events and landslides.  
 
 `2022`
 
