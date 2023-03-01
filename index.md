@@ -6,7 +6,7 @@ title: Emma Marshall's CV
   
     
       
-PhD student studying glaciology and remote sensing
+PhD student studying glaciology and remote sensing  
 *University of Utah, Department of Geography, Snow & Ice Research Lab*
 
 <div id="webaddress">
