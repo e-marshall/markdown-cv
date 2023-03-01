@@ -4,9 +4,10 @@ title: Emma Marshall's CV
 ---
 # Emma Marshall
   
-  
-PhD student studying remote sensing and mountain glaciers  
-University of Utah, Department of Geography, Snow & Ice Research Lab
+    
+      
+PhD student studying glaciology and remote sensing
+*University of Utah, Department of Geography, Snow & Ice Research Lab*
 
 <div id="webaddress">
 <a href="emma.marshall@utah.edu">emma.marshall@utah.edu</a>
@@ -17,23 +18,23 @@ University of Utah, Department of Geography, Snow & Ice Research Lab
 
 ## About me
 
-I am a Ph.D. student and graduate research assistant at the University of Utah. My research uses remote sensing data to study mountain glaciers in the Himalaya. I am interested in better understanding the variability of physical systems in the cryosphere with the goal of contributing to adaptation and mitigation strategies for downstream communities, to whom mountain glaciers are important water resources as well as potential hazards. 
+I am a Ph.D. student and graduate research assistant at the University of Utah. My research uses remote sensing data to study mountain glaciers in the Himalayas. I am interested in better understanding the variability of physical systems in the cryosphere with the goal of contributing to adaptation and mitigation strategies for downstream communities, to whom mountain glaciers are both important water resources and potential hazards. 
 
 ### Skills & Experience
 
-**Python** - Processing and analysis of geospatial data, experience working with optical satellite imagery, synthetic aperture radar data and hyperspectral imagery. Experience using modules such as xarray, rioxarray, rasterio, geopandas, pandas, numpy, dask, pystac, stackstac & others. Working with cloud-optimized data types and cloud infrastructure including Amazon Web Services and Microsoft Planetary Computer. I also have experience working with Spatio-Temporal Asset Catalog (STAC)-formatted data, including accessing STAC data from cloud repositories and organizing large volumes of geospatial raster data into STAC catalogs.  
+**Python** - Processing and analysis of geospatial data, experience working with optical satellite imagery, synthetic aperture radar data and hyperspectral imagery. Experience using modules such as xarray, rioxarray, rasterio, geopandas, pandas, numpy, dask, pystac, stackstac & others. Working with cloud-optimized data types and cloud infrastructure including Amazon Web Services and Microsoft Planetary Computer. I also have experience working with Spatio-Temporal Asset Catalog (STAC)-formatted data, including accessing STAC data from cloud repositories and creating STAC catalogs containing large volumes of geospatial raster data.  
 **gdal command line tools** - Processing and manipulation of raster data  
 **R** - Statistical modeling and visualization  
-**git/github** - Version control and collaborative workflows  
+**git/github** - Version control and collaborative workflows, gh actions  
 **QGIS** - Exploratory analysis of raster and vector geospatial data types, visualizing geospatial data  
 
 ### Research interests
-Glaciers, glacier-climate connections, physical processes in the cryosphere, sensitivity of the climate system to warming, climate change adaptation and mitigation strategies, incorporation of traditional knowledge systems about climate, resources and hazards, open-source scientific software, open science principles, increasing accessibility and participation in scientific research, optical and synthetic aperture radar remote sensing. 
+Glaciers, glacier-climate connections, physical processes in the cryosphere, optical remote sensing, synthetic aperture radar remote sensing, sensitivity of the climate system to warming, climate change adaptation and mitigation strategies, traditional knowledge systems and understandings of climate, environmental resources, resource management and hazards; open-source scientific software, open science principles, increasing accessibility and participation in scientific research. 
 
 ### Internships & other experiences
 `Summer 2022`  
 **National Center for Atmospheric Research (NCAR) Summer Internship in Parallel Computational Sciences (SIParCS)**, Boulder, CO, U.S.A.  
-During the summer of 2022 I had the opportunity to complete an internship at the National Center for Atmospheric Research through the SIParCS internship program. This is a competitive internship program open to students at universities in the United States. The project that I worked on focused on the python package xarray, and supporting the goals of open, reproducible and accessible science. I developed tutorials and other educational resources that demonstrate using Xarray to work with remote sensing datasets, with a focus on cloud-hosted datasets, cloud-optimized data types and cloud-computing resources.
+During the summer of 2022 I completed an internship at the National Center for Atmospheric Research through the SIParCS internship program. This is a competitive internship program open to students at universities in the United States. My project focused on the python package Xarray, and supporting the goals of open, reproducible and accessible science. I developed tutorials and other educational resources that demonstrate using Xarray to work with remote sensing datasets, with a focus on cloud-hosted datasets, cloud-optimized data types and cloud-computing resources.
 
 ## Education
 
@@ -68,19 +69,19 @@ GPA: 3.56
 
 `2022 - present`
 **Future Investigators in NASA Earth and Space Science and Technology (FINESST) Fellowship, National Aeronautics and Space Administration (NASA)**  
-This is a competitive fellowship awarded to graduate students at U.S. institutions whose research makes use of NASA assets and contributes to the science goals outlines in the NASA Science Mission Directorate. The fellowship grant supports tuition, academic expenses and living expenses for three years. 
+This is a competitive fellowship awarded to graduate students at U.S. institutions whose research makes use of NASA assets and contributes to the science goals outlined in the NASA Science Mission Directorate. The fellowship grant supports tuition, academic expenses and living expenses for three years. 
 
 
 ## Publications
 
-(*in revision*) Seasonal velocity differences between lake-terminating and land-terminating glaciers in the Langtang region of Nepal, **E. Marshall**, S. Rupper, R. Forster, S. Brewer & L. Stearns. **Scientific Reports**    
+(*in revision*) Seasonal velocity differences between lake-terminating and land-terminating glaciers in the Langtang region of Nepal, **E. Marshall**, S. Rupper, R. Forster, S. Brewer & L. Stearns. *Scientific Reports*   
 
 ## Conferences & Meetings
 
 `2023` 
 
 **High Mountain Asia Team Research & Practice Dialogue meeting**, Kathmandu, Nepal  
-This was a meeting organized by the Nepal Research & Development Institute (NDRI) and was attended by students at faculty at a handful of U.S. institutions as well as researchers at univerisites in Nepal, Nepal government agencies, and non-government organizations such as NDRI and the International Center for Integrated Mountain Development (ICIMOD). The purpose of the meeting was to foster connections and identify areas for future collaboration. 
+This was a meeting organized by the Nepal Research & Development Institute (NDRI) and was attended by students and faculty at a handful of U.S. institutions as well as researchers at univerisites in Nepal, Nepal government agencies, and non-government organizations such as NDRI and the International Center for Integrated Mountain Development (ICIMOD). The purpose of the meeting was to foster connections and identify areas for future collaboration on research topics including projections of future glacier change, glacier runoff contributions to seasonal water resources, hydroelectric power generation, forecasting of extreme precipitation events and glacier hazards such as glacial lake outburst flood events and landslides.  
 
 `2022`
 
@@ -124,15 +125,15 @@ interferometric products.
 `2021 - 2022`
 **Graduate student representative**  
 *Geography Department, University of Utah*    
-I attended monthly geography department faculty meetings as the representative of the graduate
-student body. I was responsible for relaying questions and concerns from graduate students to
+I attended monthly geography department faculty meetings as the representative of graduate
+students in the department. I was responsible for relaying questions and concerns from graduate students to
 faculty and communicating relevant information to my graduate student colleagues.
    
      
      
 
 `2021 - 2022`
-**Geography club co-president**  
+**Geography Club co-president**  
 *University of Utah*    
 I organized events to promote both the geography department and geography as a field at the
 University of Utah. We hosted Geography lunch hour where students could drop in with research
